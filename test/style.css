@@ -1,0 +1,77 @@
+
+
+*
+{
+   box-sizing: border-box; 
+}
+.left
+{
+    float:left
+}
+
+.right
+{
+    float: right;
+}
+
+.clear
+{
+    clear: both;
+}
+
+
+
+#logo
+{
+    width: 25%;
+   
+}
+
+nav{
+   
+    width:70%
+}
+
+header
+{
+
+    height:100px;
+    background-color: whitesmoke;
+    position: fixed;
+    width: 100%;
+  
+}
+ul{
+    width: 50%;
+}
+
+ul , ul li 
+{
+    display: inline-block;
+}
+
+ul li 
+{
+  padding-right: 4%;
+}
+
+ul li 
+{
+
+}
+
+h1
+{
+    display: inline-block;
+    margin-top: 12%;
+    margin-right: 7%;
+
+}
+
+
+
+
+.cart
+{
+margin-left: 20%;
+}
